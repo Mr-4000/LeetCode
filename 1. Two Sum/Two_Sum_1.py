@@ -12,4 +12,6 @@ class Solution(object):
                     List.append(i)
                     List.append(j)
                     return List
-        
+#Runtime: 4776 ms, faster than 22.23% of Python online submissions for Two Sum.
+#Memory Usage: 12.6 MB, less than 75.68% of Python online submissions for Two Sum.
+#Time:O(n^2) Space:O(1)
