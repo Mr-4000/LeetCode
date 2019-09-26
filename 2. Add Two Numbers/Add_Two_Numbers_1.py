@@ -31,6 +31,5 @@ class Solution(object):
             l1 = l1.next
             l2 = l2.next
         return lans
-    
-            
-            
+#Runtime: 56 ms, faster than 63.21% of Python online submissions for Add Two Numbers.
+#Memory Usage: 11.9 MB, less than 14.71% of Python online submissions for Add Two Numbers.        
