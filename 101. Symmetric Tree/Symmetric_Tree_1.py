@@ -16,3 +16,6 @@ class Solution:
         return judge(root,root)
 #Runtime: 32 ms, faster than 98.79% of Python3 online submissions for Symmetric Tree.
 #Memory Usage: 13.8 MB, less than 5.17% of Python3 online submissions for Symmetric Tree.
+
+#Runtime: 36 ms, faster than 90.21% of Python3 online submissions for Symmetric Tree.
+#Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Symmetric Tree.
